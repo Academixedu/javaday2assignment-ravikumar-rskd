@@ -14,7 +14,7 @@ public class StudentGradeEvaluation {
         System.out.print("Enter your age: ");
         int age=scanner.nextInt();
         // Prompt the user to enter their exam score
-        System.out.print("Enter your score: ");
+        System.out.print("Enter your exam score: ");
         int score=scanner.nextInt();
         // Determine the grade
         String grade;
